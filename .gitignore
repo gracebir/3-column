@@ -8,6 +8,7 @@
 style-guide.md
 README-template.md
 design/
+node_modules/
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################
